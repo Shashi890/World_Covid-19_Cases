@@ -19,7 +19,7 @@ from numerize import numerize
 
 #data1.rename(columns={"Name":"Countries_Name"},inplace =True)
 
-data1=pd.read_excel('C:/Users/Pal/New_Data.xlsx')
+data1=pd.read_excel('New_Data.xlsx')
 #data1.drop(("Unnamed: 0"), axis=1, inplace=True)
 st.sidebar.title("World Covid -19 Cases Data Analysis")
 

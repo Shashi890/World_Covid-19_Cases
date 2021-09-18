@@ -1,0 +1,12 @@
+streamlit
+plotly
+seaborn
+matplotlib
+numpy
+plotly.express
+pandas
+folium
+streamlit_folium
+folium_static
+plotly.figure_factory
+numerize

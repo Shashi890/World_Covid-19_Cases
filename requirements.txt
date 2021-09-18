@@ -7,6 +7,6 @@ plotly.express
 pandas
 folium
 streamlit_folium==0.4.0
-plotly.figure_factory
+plotly.figure_factory==5.1.0
 numerize
 
